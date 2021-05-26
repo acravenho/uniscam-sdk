@@ -25,7 +25,7 @@ export declare enum Rounding {
     ROUND_HALF_UP = 1,
     ROUND_UP = 2
 }
-export declare const FACTORY_ADDRESS = "0x32CE36F6eA8d97f9fC19Aab83b9c6D2F52D74470";
+export declare const FACTORY_ADDRESS = "0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32";
 export declare const INIT_CODE_HASH_BSC = "0x9b025805045f6da539a4926f67307a9b0ab5aaccc42d3f14aaea0776a5b727ac";
 export declare const INIT_CODE_HASH_ETH = "0xa852da7194a3edaba2a5a4545af11dda00ca97d89e0f9934bb841dffaa964220";
 export declare const INIT_CODE_HASH_HECO = "0x7b9686f044376bf1a04de2e9f1dbb6c9a4fe516f7cbd89b68be801982b62f913";
